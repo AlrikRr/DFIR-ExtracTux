@@ -1,3 +1,9 @@
+<a href="https://github.com/AlrikRr/DFIR-ExtracTux/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/AlrikRr/DFIR-ExtracTux"></a>
+<a href="https://github.com/AlrikRr/DFIR-ExtracTux/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AlrikRr/DFIR-ExtracTux"></a>
+<a href="https://github.com/AlrikRr/DFIR-ExtracTux/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AlrikRr/DFIR-ExtracTux"></a>
+<a href="https://github.com/AlrikRr/DFIR-ExtracTux/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlrikRr/DFIR-ExtracTux"></a>
+
+
 # 🧙‍♂️ DFIR-ExtracTux
 DFIR Tool for Linux System to collect and gather all kind of data in case of compromised system.
 
@@ -8,6 +14,35 @@ DFIR Tool for Linux System to collect and gather all kind of data in case of com
 - [ ] Fully Support MacOS
 - [ ] Code External Module part
 - [ ] Add More Commands
+
+## Collect
+
+ ⚠️ Do not hesitate to contribute on the collect part !
+
+- Audit-Risk
+  - Plain Text Passwords
+  - SSH Keys
+- Users & Groups
+  - Passwd and shadow files
+  - Groups 
+  - Temp users
+  - Sudoers
+- System Configuration
+  - Network settings
+  - OS Release
+  - Disks
+- User Activities (For each users)
+  - Bash history
+  - Recently changed files
+- Log System
+  - All kind of logs
+  - SSH, Apache, etc
+- Persistence Mechanism
+  - Services
+  - Processes
+  - Crontab
+  - Network Connection
+  - TMP folder backup
 
 ## Usage
 
